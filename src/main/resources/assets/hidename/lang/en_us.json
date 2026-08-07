@@ -1,0 +1,13 @@
+{
+  "itemGroup.hidename": "Example Mod Tab",
+  "block.hidename.example_block": "Example Block",
+  "item.hidename.example_item": "Example Item",
+
+  "hidename.configuration.title": "HideName Configs",
+  "hidename.configuration.section.hidename.common.toml": "HideName Configs",
+  "hidename.configuration.section.hidename.common.toml.title": "HideName Configs",
+  "hidename.configuration.items": "Item List",
+  "hidename.configuration.logDirtBlock": "Log Dirt Block",
+  "hidename.configuration.magicNumberIntroduction": "Magic Number Text",
+  "hidename.configuration.magicNumber": "Magic Number"
+}
